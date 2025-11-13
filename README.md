@@ -13,8 +13,6 @@
 
 - 📫 How to reach me **alirazabt15342@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1fs4LVEulnfNfI89SF2QGkUkKKBZ_-NMmnv3uxzunfRU/edit?usp=sharing](https://docs.google.com/document/d/1fs4LVEulnfNfI89SF2QGkUkKKBZ_-NMmnv3uxzunfRU/edit?usp=sharing)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ali-raza-mern-stac" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ali-raza-mern-stac" height="30" width="40" /></a>
