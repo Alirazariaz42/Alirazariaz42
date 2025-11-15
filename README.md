@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **E-commerce MERN Epplication**
 
-- 🌱 I’m currently learning **MERN stack + Next.k**
+- 🌱 I’m currently learning **MERN stack + Next.js**
 
 - 👯 I’m looking to collaborate on **Web Development Projects**
 
