@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **E-commerce MERN Epplication**
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **MERN stack + Next.k**
 
 - 👯 I’m looking to collaborate on **Web Development Projects**
 
@@ -12,6 +12,8 @@
 - 💬 Ask me about **react.js, node.js and GSAP**
 
 - 📫 How to reach me **alirazabt15342@gmail.com**
+
+- 📄 Know about my experiences [https://docs.google.com/document/d/1fs4LVEulnfNfI89SF2QGkUkKKBZ_-NMmnv3uxzunfRU/edit?usp=sharing](https://docs.google.com/document/d/1fs4LVEulnfNfI89SF2QGkUkKKBZ_-NMmnv3uxzunfRU/edit?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
